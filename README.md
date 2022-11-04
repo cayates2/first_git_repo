@@ -2,4 +2,10 @@
 
 ---
 
+# Typing something new
 Collin is cool.
+
+
+# 1
+## 2
+### 3
